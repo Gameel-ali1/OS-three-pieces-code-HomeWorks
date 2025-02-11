@@ -1,5 +1,4 @@
 # OS-three-pieces-code-HomeWorks
-# Dr. Remzy's Book - Code Homework Repository
 
 ## 📌 About This Repository
 This repository contains all the code homeworks and exercises from **Dr. Remzy's book**. Each chapter's coding problems will be organized systematically for easy navigation and reference.
