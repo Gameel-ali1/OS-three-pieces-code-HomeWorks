@@ -7,14 +7,10 @@ This repository contains all the code homeworks and exercises from **Dr. Remzy's
 ## 🚀 How to Use This Repository
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/dr-remzy-homeworks.git
+   git clone https://github.com/Gameel-ali1/OS-three-pieces-code-HomeWorks.git
    ```
 2. Navigate to the desired chapter folder.
 3. Run or modify the code as needed.
-
-## 📖 References
-- **Dr. Remzy's Book** - [Add book link if available]
-- Additional coding resources.
 
 Happy Coding! 🚀
 
